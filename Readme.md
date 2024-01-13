@@ -1,4 +1,4 @@
-### GETNET SDK PHP - API v1
+### GETNET SDK PHP - API v2
 E-commerce
 
 Todos os passos e processos referentes à integração com o sistema de captura e autorização de transações financeiras da Getnet via as funcionalidades da API.
@@ -14,11 +14,11 @@ Todos os passos e processos referentes à integração com o sistema de captura 
 
 add composer.json
 ```
-"edson-nascimento/getnet-php": "^2.0"
+"dlhenke/getnet-php": "^2.0"
 ```
 ou execute
 ```base
-composer require edson-nascimento/getnet-php
+composer require dlhenke/getnet-php
 ```
 #### Exemplo Autorização com cartão de crédito MasterCard R$27,50 em 2x 
 
