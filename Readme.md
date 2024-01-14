@@ -18,7 +18,7 @@ add composer.json
 ```
 ou execute
 ```base
-composer require dlhenke/getnet-php
+composer require dlhenke/getnet-php-slim-framework
 ```
 #### Exemplo Autorização com cartão de crédito MasterCard R$27,50 em 2x 
 
