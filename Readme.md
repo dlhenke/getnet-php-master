@@ -14,7 +14,7 @@ Todos os passos e processos referentes à integração com o sistema de captura 
 
 add composer.json
 ```
-"dlhenke/getnet-php-slim-framework": "^2.0"
+"dlhenke/getnet-php-slim-framework": "^2.1"
 ```
 ou execute
 ```base
