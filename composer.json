@@ -1,5 +1,5 @@
 {
-    "name":"edson-nascimento/getnet-php",
+    "name":"dlhenke/getnet-php-slim-framework",
     "description":"SDK php para integração com a API Getnet",
     "minimum-stability":"stable",
     "license":"MIT",
@@ -42,7 +42,11 @@
         {
             "name":"Edson Nascimento",
             "email":"edson27bn@gmail.com"
+        },
+        {
+            "name":"Durval Henke",
+            "email":"durvalhenke@gmail.com"
         }
     ],
-    "homepage":"https://github.com/edson-nascimento/getnet-php"
+    "homepage":"https://github.com/dlhenke/getnet-php-slim-framework"
 }
